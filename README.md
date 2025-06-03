@@ -1,6 +1,5 @@
 ﻿# Multi-Line-Expression-Output-CC
 
-Certainly! Let’s break down the two versions of the C code that produce the output:
 
 ```
 The result of 5 + 3 is:
