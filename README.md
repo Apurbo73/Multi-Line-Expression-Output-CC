@@ -59,6 +59,4 @@ The result of 5 + 3 is:
 8
 ```
 
-This version is better because it actually performs the addition.
 
-Let me know if you’d like a [visual diagram](f) or [line-by-line walkthrough](f).
